@@ -1,0 +1,5 @@
+region,total_customers,total_orders,avg_orders_per_customer,avg_revenue_per_customer,avg_units_per_customer
+West,797,828,1.04,3453.97,3.14
+South,742,772,1.04,3354.32,3.15
+East,739,774,1.05,3322.53,3.16
+North,747,778,1.04,3226.92,3.13
